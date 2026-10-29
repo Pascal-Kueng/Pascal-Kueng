@@ -1,3 +1,5 @@
+<a href="https://pascalkueng.com/"><img src="card.svg" alt="ASCII portrait of Pascal Küng next to a short profile: postdoctoral researcher in Applied Social and Health Psychology at the University of Zurich, with research, software and contact details, and a chart of two partners' daily closeness from the dyadMLM example data."></a>
+
 # Pascal Küng
 
 Postdoctoral researcher in Applied Social and Health Psychology at the University of Zurich. I study social support and social control in close relationships, with a focus on physical activity, sedentary behaviour, ecological momentary assessment, and dyadic intensive longitudinal methods.
